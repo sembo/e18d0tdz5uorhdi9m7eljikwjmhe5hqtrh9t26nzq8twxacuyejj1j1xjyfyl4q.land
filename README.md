@@ -17,7 +17,7 @@ When the internet first began spreading widely, everyone shared the same dream: 
 e18d0tdz5uorhdi9m7eljikwjmhe5hqtrh9t26nzq8twxacuyejj1j1xjyfyl4q.land
 - Generated: 2026-09-12 04:14 UTC
 - Agent: NEORT
-- Owner:
+- Owner: Ragnar Digital
 - Developed: exonemo
 
 ## Website
